@@ -46,7 +46,7 @@ export const experience = [
   {
     company: "AssistX Enterprise",
     role: "Backend Developer",
-    period: "2021 — Present",
+    period: "2023 — Present",
     duration: "3+ Years",
     description:
       "Engineered and maintained mission-critical backend systems, high-throughput APIs, and distributed microservices for enterprise clients including BRI and BCA. Designed scalable architectures for video streaming platforms, CCTV monitoring systems, and high-volume data pipelines. Applied Agile methodologies throughout the software development lifecycle.",
